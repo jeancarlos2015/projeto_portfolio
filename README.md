@@ -56,6 +56,14 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - [We Are The Robots Inc.](https://watr.mx/)
 - [Understand.io](https://www.understand.io/)
 
+##Informações sobre o projeto
+<ul>
+<li>Configurado para rodar no Heroku</li>
+<li>Orientado a componentes usando blade para facilitar a adaptação do template à aplicação</li>
+</ul>
+
+
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
